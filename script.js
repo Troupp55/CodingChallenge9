@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
             d3.select(this).style("background-color", "firebrick");
         })
         .on("mouseout", function() {
-            d3.select(this).style("background-color", "lightpurple");
+            d3.select(this).style("background-color", "#D8BFD8"); // Thistle
         });
 });

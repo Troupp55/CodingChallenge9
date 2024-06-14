@@ -1,1 +1,1 @@
-# CodingChallenge9
+I created a simple web page with interactive boxes using D3.js version 7. The boxes start with a light purple color. When you hover over them, they change to a firebrick color, and when you move the mouse away, they turn back to light purple. This shows how to use D3.js to make web elements interactive.
