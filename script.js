@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
             d3.select(this).style("background-color", "firebrick");
         })
         .on("mouseout", function() {
-            d3.select(this).style("background-color", "lightblue");
+            d3.select(this).style("background-color", "lightpurple");
         });
 });
